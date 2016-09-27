@@ -1,0 +1,51 @@
+.big{text-align: center;
+    border-bottom: 6px solid #e68a00;
+    padding-bottom:20px;
+
+}
+.image{margin-left: 400px;
+    margin-top: 30px;
+    position:relative;
+    width:100%;
+}
+h5{
+    position:absolute;
+    top:395px;
+    left:20px;
+    width:100%;
+    color:yellow;
+}
+h5 span{
+
+    color:yellow;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+    margin: 40px;
+    /*padding-right: 40px;
+    margin-top : 40px;
+    */
+}
+a{
+    color:darkblue;
+    position:absolute;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+p{
+    padding-left:40px;
+
+}
+#my_name{
+    color: yellow;
+}
